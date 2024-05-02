@@ -1,6 +1,6 @@
 ### Hi! 👋 Muhbar.
 
-Sebagai mahasiswa semester 5 Program Studi Teknologi Informasi di Universitas Lambung Mangkurat, saya memiliki minat dalam desain grafis, UI/UX, pengembangan website, dan jaringan komputer. Saat ini, saya tengah fokus belajar mengenai pengembangan website, baik dalam aspek frontend maupun backend.
+Sebagai mahasiswa semester 6 Program Studi Teknologi Informasi di Universitas Lambung Mangkurat, saya memiliki minat dalam desain grafis, UI/UX, pengembangan website, dan jaringan komputer. Saat ini, saya tengah fokus belajar mengenai pengembangan website, baik dalam aspek frontend maupun backend.
 
 ### Github Statistic
 <p align="left">
